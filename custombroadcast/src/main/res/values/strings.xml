@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomBroadcast</string>
+    <string name="title_activity_start_broadcast">StartBroadcastActivity</string>
+</resources>
