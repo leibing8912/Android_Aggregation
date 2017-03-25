@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android_Aggregation.iml" filepath="$PROJECT_DIR$/Android_Aggregation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custombroadcast/custombroadcast.iml" filepath="$PROJECT_DIR$/custombroadcast/custombroadcast.iml" />
       <module fileurl="file://$PROJECT_DIR$/hookpractice/hookpractice.iml" filepath="$PROJECT_DIR$/hookpractice/hookpractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sendbroadcast/sendbroadcast.iml" filepath="$PROJECT_DIR$/sendbroadcast/sendbroadcast.iml" />
     </modules>
   </component>
 </project>
